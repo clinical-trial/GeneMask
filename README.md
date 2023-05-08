@@ -1,7 +1,7 @@
 # GeneMask
 Codebase for ECAI 2023 paper "GeneMask: Fast Pretraining of Gene Sequences to Enable Few-Shot Learning"
 
-Here we provide the following resources required for: (a) Computing Normalized-PMIn for all 6-mers based on the Human Reference Genome. (b) PMI-best - pretraining and finetuning (c) Datasets of Prom-core, Prom-300, and Cohn-enh used for the different few-shot settings. (d) de novo motif discovery using the _rGADEM_ R package.
+Here we provide the following resources required for: (a) Computing $Normalized-PMI_k$ for all 6-mers based on the Human Reference Genome. (b) PMI-best - pretraining and finetuning (c) Datasets of Prom-core, Prom-300, and Cohn-enh used for the different few-shot settings. (d) de novo motif discovery using the _rGADEM_ R package.
 
 ***We will release the trained model weights and various model checkpoints of GeneMask, its two pretraining model variations and all baseline models, after paper acceptance.***
 
