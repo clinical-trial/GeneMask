@@ -3,6 +3,8 @@ Codebase for ECAI 2023 paper "GeneMask: Fast Pretraining of Gene Sequences to En
 
 Here we provide the following resources required for: (a) Computing Normalized-PMIn for all 6-mers based on the Human Reference Genome. (b) PMI-best - pretraining and finetuning (c) Datasets of Prom-core, Prom-300, and Cohn-enh used for the different few-shot settings. (d) de novo motif discovery using the _rGADEM_ R package.
 
+***We will release the trained model weights and various model checkpoints of GeneMask, its two pretraining model variations and all baseline models, after paper acceptance.***
+
 **DNABert**
 
 1. Clone or download the GitHub repository from [https://github.com/jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT), as provided by the authors of DNABert.
