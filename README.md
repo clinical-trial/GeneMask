@@ -5,6 +5,8 @@ Here we provide the following resources required for: (a) Computing $Normalized-
 
 ***We will release the trained model weights and various model checkpoints of GeneMask, its two pretraining model variations and all baseline models, after paper acceptance.***
 
+![Method overview of GeneMask](genemask-method-overview.png)
+
 **DNABert**
 
 1. Clone or download the GitHub repository from [https://github.com/jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT), as provided by the authors of DNABert.
